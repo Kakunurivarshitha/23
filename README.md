@@ -1,2 +1,20 @@
-# 23
-css-5
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: plum;
+    padding: 20px;
+    height: 200px;
+
+}
+.box 
+{
+    background-color: blueviolet;
+    color: aqua;
+    padding: 20px;
+    font-size: 12px;
+    border-radius: 8px;
+    width: 100px;
+
+
+}
